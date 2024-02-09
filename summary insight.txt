@@ -1,0 +1,5 @@
+The data is for a company in San Francisco
+the company have 148654 employee in deferant department
+almost 25% of the employees do not have a benfits
+none of the employees have any note about the company
+when looking on the (describe ) on the notebook we notice that there is a negative numbers it might be a dept on the employees ,the most of the employees are geting base pay in range(50000 -100000),Most of the employees are on the civil department,There is a high colaration between the benfits and base pay.
